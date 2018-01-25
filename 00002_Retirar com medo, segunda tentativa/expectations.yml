@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: program
+  inspection: UsesIf
+- binding: program
+  inspection: Uses:haPedras

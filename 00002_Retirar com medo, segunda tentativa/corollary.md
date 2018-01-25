@@ -1,0 +1,3 @@
+Ótimo!
+
+Você fez seu primeiro procedimento que **decide** antes de executar. Continue com a gente  para entender do que se trata isto...
