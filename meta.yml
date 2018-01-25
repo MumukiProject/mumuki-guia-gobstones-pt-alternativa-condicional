@@ -1,9 +1,9 @@
 ---
-name: PT Alternativa Condicional
+name: Alternativa Condicional
 locale: pt
 type: learning
 beta: false
-teacher_info: 
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
 order: []
