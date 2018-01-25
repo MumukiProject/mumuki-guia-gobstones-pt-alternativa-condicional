@@ -1,0 +1,1 @@
+O `Mover(direcao)` você já sabe como usar, só falta pensar como armar a **condição** para colocar no `if`.

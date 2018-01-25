@@ -1,0 +1,21 @@
+check_head_position: true
+
+examples:
+ - title: 'Se houver células ao Leste, se move'
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     head 1 0
+ - title: 'Se houver células ao Leste, não faz nada'
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     head 1 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     head 1 0
