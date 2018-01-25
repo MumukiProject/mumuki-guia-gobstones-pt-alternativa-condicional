@@ -1,0 +1,1 @@
+O que você acaba de fazer, em lógica se chama **negação** e antecedendo o `not` dizemos que está **negando** uma expressão. Qualquer expressão booleana (ou seja, que devolve _True_ o _False_) pode ser negada.

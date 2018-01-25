@@ -1,7 +1,7 @@
 check_head_position: true
 
 examples:
- - title: 'Se houver menos de 5 pedras pretas, coloque uma'
+ - title: 'Se há menos de 5 pedras pretas, coloque uma'
    initial_board: |
      GBB/1.0
      size 2 3
@@ -12,7 +12,7 @@ examples:
      size 2 3
      cell 0 0 Negro 4
      head 0 0
- - title: 'Se houver mais de 5 pedras pretas, não faz nada'
+ - title: 'Se há mais de 5 pedras pretas, não faz nada'
    initial_board: |
      GBB/1.0
      size 2 3

@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: GarantirUmaPedraVerde
+  inspection: UsesIf
+- binding: GarantirUmaPedraVerde
+  inspection: Uses:haPedras
