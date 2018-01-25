@@ -1,0 +1,21 @@
+check_head_position: true
+
+subject: RetirarAzulComMedo
+
+examples:
+ - title: 'Quando há uma pedra azul, retira-a.'
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Azul 1
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+ - title: 'Quando não há pedra azul, faz BOOM'
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+   error: no_stones
