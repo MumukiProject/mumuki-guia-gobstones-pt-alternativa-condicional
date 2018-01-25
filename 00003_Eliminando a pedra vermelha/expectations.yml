@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: RetirarAzulComMedo
+  inspection: UsesIf
+- binding: RetirarAzulComMedo
+  inspection: Uses:haPedras

@@ -1,0 +1,1 @@
+`RetirarAzulComMedo` já não é um nome tão legal para o procedimento, esperamos que você possa mudar o nome também.

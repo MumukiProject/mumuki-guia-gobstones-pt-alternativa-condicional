@@ -13,7 +13,7 @@ examples:
      GBB/1.0
      size 2 2
      head 0 0
- - title: 'Quando não há pedra azul, faz BOOM'
+ - title: 'Quando não há pedra azul, não faz nada'
    initial_board: |
      GBB/1.0
      size 2 2
