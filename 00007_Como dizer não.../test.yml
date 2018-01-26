@@ -14,7 +14,7 @@ examples:
      size 2 2
      cell 1 0 Verde 1
      head 1 0
- - title: 'Se não há pedra preta, coloca uma'
+ - title: 'Se não há pedras verdes, coloca uma'
    initial_board: |
      GBB/1.0
      size 2 2

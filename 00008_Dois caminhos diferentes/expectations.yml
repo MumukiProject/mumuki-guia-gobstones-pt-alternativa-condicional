@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: MoverComoSeja
+  inspection: UsesIf
+- binding: MoverComoSeja
+  inspection: Uses:podeMover
