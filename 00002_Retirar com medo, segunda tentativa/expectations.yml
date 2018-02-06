@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: program
+- binding: RetirarAzulComMedo
   inspection: UsesIf
-- binding: program
+- binding: RetirarAzulComMedo
   inspection: Uses:haPedras
