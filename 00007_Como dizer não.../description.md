@@ -6,7 +6,7 @@ E como se faz em Gobstones? Fácil, se adiciona a palavra-chave `not` antes da e
 
 |Original|  |Negada|
 |:------:|:-:|:----:|
-|`haPedras(Vermelho)`|<i class="fa fa-arrow-right"></i>|`nothaPedras(Vermelho)`|
+|`haPedras(Vermelho)`|<i class="fa fa-arrow-right"></i>|`not haPedras(Vermelho)`|
 |`podeMover(Leste)`|<i class="fa fa-arrow-right"></i>|`not podeMover(Leste)`|
 |`nroPedras(Azul) > 3`|&nbsp;&nbsp; <i class="fa fa-arrow-right"></i> &nbsp;&nbsp;|`not nroPedras(Azul) > 3`|
 
