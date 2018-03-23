@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: program
+- binding: CompletarCelula
   inspection: UsesIf
-- binding: program
+- binding: CompletarCelula
   inspection: Uses:haPedras
